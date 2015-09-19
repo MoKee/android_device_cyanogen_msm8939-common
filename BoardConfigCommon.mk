@@ -73,7 +73,7 @@ BLUETOOTH_HCI_USE_MCT := true
 
 # MKHW
 BOARD_USES_MOKEE_HARDWARE := true
-BOARD_HARDWARE_CLASS += hardware/mokee
+BOARD_HARDWARE_CLASS += hardware/mokee/mkhw
 
 # Crypto
 TARGET_HW_DISK_ENCRYPTION := true
